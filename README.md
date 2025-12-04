@@ -32,6 +32,6 @@ cp config.exemple.py config.py
 ## Запуск
 
 ```
-python `Perplexity.py`
+python Perplexity.py
 ```
 
