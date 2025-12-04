@@ -1,6 +1,6 @@
 # Telegram Bot
 
-Простой Telegram-бот на Python.
+Простой Telegram-бот на Python. Процесс создания и некоторые нюансы есть здесь: https://404-page.ru/posts/perplexity-and-telegram/
 
 ## Установка
 
