@@ -1,4 +1,3 @@
-```markdown
 # Telegram Bot
 
 Простой Telegram-бот на Python.
@@ -34,8 +33,5 @@ cp config.exemple.py config.py
 
 ```
 python `Perplexity.py`
-```
-
-или запустите основной файл вашего бота.
 ```
 
